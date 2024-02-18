@@ -1,0 +1,42 @@
+body {
+    background-color: #474F7A ;
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+
+
+}
+
+.ana-başlık{
+    font-size: 50px;
+    
+}
+
+.ortabaslık{
+
+    line-height: 70px;
+}
+
+.instagörsel{
+      position:relative;
+
+      left: -100px;
+    
+}
+
+.discordgörsel{
+
+    position:relative;
+
+    left: 100px;
+    top: 20px
+
+}
+
+.hakkımızdacıklama{
+    color: white;
+}
+
+#ünlem{
+    color: white;
+}
