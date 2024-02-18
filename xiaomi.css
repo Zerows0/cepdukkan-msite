@@ -1,0 +1,66 @@
+body {
+    background-color: #474F7A ;
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+
+   img {
+    border:0px solid #999; -webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px;
+   }
+
+}
+
+
+.ana-başlık{
+   font-size: 50px;
+   
+}
+
+.kategoribaslık{
+    position: relative;
+    top: 40px;
+}
+
+#n12{
+list-style-type:none;
+    color: white;
+    position: relative;
+    top: 40px;
+    left: -620px;
+}
+
+#n13{
+    list-style-type:none;
+    color: white;
+
+    position: relative;
+
+    top: -430px;
+    
+}
+
+#r13{
+    list-style-type:none;
+    color: white;
+
+    position: relative;
+    right: -620px ;
+    top: -900px;
+}
+
+#t13{
+    list-style-type:none;
+    color: white;
+
+    position: relative;
+    top: -800px;
+    left: -620px;
+}
+
+#r12{
+    list-style-type:none;
+    color: white;
+
+    position: relative;
+    top: -1270px;
+}
