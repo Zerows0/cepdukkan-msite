@@ -1,0 +1,44 @@
+body {
+    background-color: #474F7A ;
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+
+
+}
+
+.ana-başlık{
+   font-size: 50px;
+   
+}
+
+
+#kategoribaslık{
+    line-height: 100px;
+        font-size: 40px;
+
+}
+
+#applelogo{
+     position: relative;
+left: -400px
+}
+
+#xiaomilogo{
+    position: relative;
+left: -10px;
+}
+
+#samsunglogo{
+    
+    position: relative;
+ right: -300px;
+ top: -100px;
+
+
+}
+
+#footer{
+    position: relative;
+    top: 100px;
+}
